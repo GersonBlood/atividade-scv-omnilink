@@ -17,4 +17,9 @@
     <td>Gilson Moraes</td>
     <td>Designer UX UI</td>
   </tr>
+  <tr>
+    <td>Eberson Santos</td>
+	<td>Desenvolvedor Pleno</td>
+  </tr>
 </table>
+
